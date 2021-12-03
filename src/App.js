@@ -1,10 +1,11 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
+import SearchBarTitle from './components/SearchBarTitle';
 
 const App = () => {
   return (
     <View>
-      <Text>asd</Text>
+      <SearchBarTitle />
     </View>
   );
 };
