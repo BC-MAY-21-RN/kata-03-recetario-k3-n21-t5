@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import SearchBarTitle from './components/SearchBarTitle';
+import SearchBarTitle from './src/components/SearchBarTitle/index.js';
 
 const App = () => {
   return (
