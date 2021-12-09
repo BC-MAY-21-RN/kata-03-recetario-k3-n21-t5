@@ -2,11 +2,37 @@
   {
     "id": 1,
     "name": "Cereal",
-    "imagen": "https://picsum.photos/200",
+    "description": "La mejor forma de empezar el dia",
+    "image": "https://mysuenos.com/wp-content/uploads/2020/05/cereal-con-leche.jpg",
     "porciones": 1,
-    "Ingredientes": {
-      "leche": "500ml",
-      "cereal": "300gr"
-    }
+    "ingredientes":[ 
+    {
+      "nombre": "leche",
+      "cantidad": 600,
+      "unit": "ml"
+    },
+    {
+      "nombre": "cereal",
+      "cantidad": 250,
+      "unit": "g"
+    }]
+  },
+  {
+    "id": 2,
+    "name": "Carne Asada",
+    "description": "La excusa perfecta para juntarse",
+    "image": "https://laroussecocina.mx/wp-content/uploads/2018/01/Carne-asada.jpg",
+    "porciones": 1,
+    "ingredientes":[ 
+    {
+      "nombre": "Carne de puerco o res",
+      "cantidad": 1,
+      "unit": "kg"
+    },
+    {
+      "nombre": "Sasonador",
+      "cantidad": 250,
+      "unit": "g"
+    }]
   }
 ]
