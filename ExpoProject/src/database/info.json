@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Cereal",
+    "imagen": "https://picsum.photos/200",
+    "porciones": 1,
+    "Ingredientes": {
+      "leche": "500ml",
+      "cereal": "300gr"
+    }
+  }
+]
