@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, ScrollView, Text,Image, StyleSheet } from 'react-native';
+import { View, ScrollView, Text} from 'react-native';
 import {FoodTile} from "../components/FoodTile";
 import { IngredientsList } from '../components/IngredientsList';
 import { Styles } from './stylesIngridients';
