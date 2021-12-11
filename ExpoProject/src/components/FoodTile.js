@@ -11,12 +11,16 @@ export const FoodTile = (receta) => {
                 <TouchableOpacity onPress ={ () => onClick(receta)}>
                     <Icon name="close-outline" type='ionicon' color='#fff' size={40}/>
                 </TouchableOpacity>
-                
-                <View>
+            <View style={Styles.IconHeartShare}>
+                <TouchableOpacity style={Styles.IconShare}>
                     <Icon name="share-outline" type='ionicon' color='#fff' size={30}/>
+                </TouchableOpacity>
+                <TouchableOpacity style={Styles.IconHeart}>
                     <Icon name="heart-outline" type='ionicon' color='#fff' size={30}/>
-                </View>
+                </TouchableOpacity>
             </View>
+        </View>
+
             <Image source={{uri: receta.image}} style={Styles.imageStyle}/>
             <View style={Styles.TitleContainer}>
                 <Text style={Styles.Title}>{receta.name}</Text>
