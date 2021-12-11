@@ -14,6 +14,17 @@ export const Styles = StyleSheet.create({
         position: 'absolute',
         zIndex: 1
     },
+    IconHeartShare:{
+        display: 'flex',
+        flexDirection: 'row',
+        zIndex: 1
+    },
+    IconHeart:{
+        paddingTop: 12
+    },
+    IconShare:{
+        padding: 10
+    },
     Title:{
         fontSize: 30,
         fontWeight: '700',
