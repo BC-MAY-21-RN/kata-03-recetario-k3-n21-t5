@@ -2,8 +2,6 @@ import React from 'react'
 import { Text, View, Image, TouchableOpacity } from 'react-native'
 import { Icon } from 'react-native-elements'
 import { Styles } from "./FoodTileStyles";
-import { CommonActions } from '@react-navigation/native';
-
 export const FoodTile = (receta) => {
     const {onClick} = receta
 
