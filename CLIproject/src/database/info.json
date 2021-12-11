@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "name": "Cereal",
+    "description": "La mejor forma de empezar el dia",
+    "image": "https://mysuenos.com/wp-content/uploads/2020/05/cereal-con-leche.jpg",
+    "porciones": 1,
+    "ingredientes": [
+      {
+        "nombre": "leche",
+        "cantidad": 600,
+        "unit": "ml"
+      },
+      {
+        "nombre": "cereal",
+        "cantidad": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Carne Asada",
+    "description": "La excusa perfecta para juntarse",
+    "image": "https://laroussecocina.mx/wp-content/uploads/2018/01/Carne-asada.jpg",
+    "porciones": 1,
+    "ingredientes": [
+      {
+        "nombre": "Carne de puerco o res",
+        "cantidad": 1,
+        "unit": "kg"
+      },
+      {
+        "nombre": "Sasonador",
+        "cantidad": 250,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pizza Pepperoni",
+    "description": "Simplemente épica",
+    "image": "https://cdn.queapetito.com/wp-content/uploads/2020/04/pizza-de-pepperoni-1200-amp.jpg",
+    "porciones": 8,
+    "ingredientes": [
+      {
+        "nombre": "Hojaldre",
+        "cantidad": 1,
+        "unit": "unidad"
+      },
+      {
+        "nombre": "Pepperoni",
+        "cantidad": 15,
+        "unit": "rebanadas"
+      },
+      {
+        "nombre": "Salsa marinada",
+        "cantidad": 1,
+        "unit": "taza"
+      },
+      {
+        "nombre": "Queso mozzarella rallado",
+        "cantidad": 1,
+        "unit": "taza"
+      },
+      {
+        "nombre": "Huevo",
+        "cantidad": 1,
+        "unit": "unidad"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Albóndigas",
+    "description": "Para los amantes de la carne esférica",
+    "image": "https://www.hola.com/imagenes/cocina/recetas/2014100174000/albondigas-cordero/0-784-791/albondigas-de-cordero-con-salsa-de-tomate-m.jpg",
+    "porciones": 3,
+    "ingredientes": [
+      {
+        "nombre": "Mini bolas de carne",
+        "cantidad": 24,
+        "unit": "unidades"
+      },
+      {
+        "nombre": "Salsa marinada",
+        "cantidad": 1,
+        "unit": "jarra"
+      },
+      {
+        "nombre": "Queso mozzarella rallado",
+        "cantidad": 2,
+        "unit": "tazas"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sandwich",
+    "description": "Para sacarte de un apuro",
+    "image": "https://www.eluniversal.com.mx/sites/default/files/2020/10/30/calorias_de_un_sandwich_istock_el_universal.jpg",
+    "porciones": 1,
+    "ingredientes": [
+      {
+        "nombre": "Pan integral",
+        "cantidad": 2,
+        "unit": "rebanadas"
+      },
+      {
+        "nombre": "Jamón",
+        "cantidad": 1,
+        "unit": "unidad"
+      },
+      {
+        "nombre": "Queso amarillo",
+        "cantidad": 1,
+        "unit": "unidad"
+      },
+      {
+        "nombre": "Lechuga",
+        "cantidad": 2,
+        "unit": "Hojas"
+      },
+      {
+        "nombre": "Jitomate rebanado",
+        "cantidad": 1,
+        "unit": "unidad"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Huevos a la mexicana",
+    "description": "Rica gastronomía mexicana",
+    "image": "https://www.conave.org/wp-content/uploads/2020/03/huevos-mexicana.jpg",
+    "porciones": 4,
+    "ingredientes": [
+      {
+        "nombre": "Huevo",
+        "cantidad": 4,
+        "unit": "unidades"
+      },
+      {
+        "nombre": "Chile verde picado",
+        "cantidad": 3,
+        "unit": "chiles"
+      },
+      {
+        "nombre": "Jitomate picado",
+        "cantidad": 4,
+        "unit": "jitomates"
+      },
+      {
+        "nombre": "Cebolla picada",
+        "cantidad": 2,
+        "unit": "unidades"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Espagueti",
+    "description": "Mamma mia",
+    "image": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2018/07/espagueti-rojo-receta-la-mejor.jpg",
+    "porciones": 2,
+    "ingredientes": [
+      {
+        "nombre": "Pasta",
+        "cantidad": 1,
+        "unit": "paquete"
+      },
+      {
+        "nombre": "Salsa de tomate",
+        "cantidad": 250,
+        "unit": "gr"
+      },
+      {
+        "nombre": "Queso rallado",
+        "cantidad": 25,
+        "unit": "gr"
+      }
+    ]
+  }
+]
